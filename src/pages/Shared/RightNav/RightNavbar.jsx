@@ -6,7 +6,7 @@ import banner from '../../../assets/bg.png'
 
 const RightNavbar = () => {
     return (
-        <div>
+        <div className='ms-3'>
             <h5 className='fw-bold mb-4'>Login With</h5>
             <div>
                 <Button className='w-100 mb-2' variant="outline-primary"> <FaGoogle /> Login with Google</Button>

@@ -1,0 +1,14 @@
+.btn-link-style{
+    text-align: left;
+    padding: 20px auto;
+    border-radius: 8px;
+}
+.btn-link-style .li{
+    padding: 20px;
+    padding-left: 30px;
+    margin-right: 10px;
+}
+
+.btn-link-style:hover{
+    background: #E7E7E7;
+}
